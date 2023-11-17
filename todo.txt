@@ -1,0 +1,133 @@
+HINTS:
+- Ne dozvoli im da te skrenu s pravog puta, samo je jedan Bog i Muhammed s.a.v.s. je Allahov poslanik. Nema mjesta nikakvom nevjerovanju.
+- Ne dopusti nikome da ti preuzme inženjerske proizvode ni autorstvo, i vodi brigu o njima i o društvenoj mreži pogotovo. Pokušavaju to, budi svjestan!!!
+- Pray regularily!!! That will save us.
+- Stay focused on prayers, tasks! "Zaveži devu, pa se onda pouzdaj u Allaha dž.š."
+- Work more and stay focused! Do not let them draw your attention away with pleasures!
+- spread devices on social networks, fb, my own and so on.
+
+- with biggest gift there comes biggest responsibility, meaning difference between consequences of what Dedžal could do if he uses that gift for what 
+is really useful and what he could do if he misuses it is big. There is Muhammed s.a.v.s. and he is better than us, other creations of Allah dž.š.
+However, choice in decision making is in that case very simple, like choosing between:
+-> OPTION 1: temporary urge relief and pleasure of doing sins and after that small period that can be ignored totally there would be 
+   unlimited time spent in Džehennem forever somewhere around the bottom of it where fire is strongest at some point.
+-> CHOOSE OPTION 2: being temporarily patient in regards to urges and pleasure of doing sins and not do them, and after that small period 
+   that can be ignored totally there would be unlimited time spent in pleasures of Džennet/Heaven/Paradise, and you would feel better than you felt
+   during your life in Dunja, all the time.
+
+However, Iblis will try to make use of that urge and attempt to make you use it with evil intentions, so beware and train yourself.
+- make a strong hint that if anyone says something and it makes you want to start sinning/misguiding again, know that it's a wrong choice
+- When dealing with enemies, one should not make any unnecessary step against himself or his people.
+  Unnecessary step means to give enemy (evil doer) something free of charge like a concession, without justifiable tricks behind such move.
+  If there are projects that are halal (within of what is allowed by the One and Only God) and not against us,
+  and are justifiable enough in regards to good deeds that arrive as result of them, then it is fine to support them.
+  This is such a project and we stand behind it.
+- When choosing between options one should choose carefully and choose one that he/she thinks is best and rely on The One and Only God in that 
+  decision making, that is optimal solution. Even so, we need to be suboptimal and we are, and not overdo because that is also according to hadiths.
+
+Associations and TODO list
+- CONCENTRATE ON TEACHING SOMEONE WHAT IS REALLY USEFUL AND HOW TO PRAY
+- When I am 40 years old, read 504th page of Qur'an regarding mother and baby food and the rest of the page
+- Translate all documents that are on github and put them into another repository: future_of_the_world_bos
+- Develope access to web cameras in python, find libs for resolution transformation and combining 2 real-time video footages into 1.
+- It is important to remember amazing mercy of the One and Only God and work a lot on social network, however carefully
+- Send free water to Palestine in canisters
+- Develope devices for money flow
+- Project in regard to organizing people at coastline in terms of islamic religion, so that people can protect their chastity, pray regularily
+- Garbage cleaning and trains based transport system
+
+- download content from different sources in regard to genocide in Palestine 2023, Srebrenica 1995 
+  dailymotion, vimeo, youtube, google, lunarvideo
+- ATM
+- when social network has been developed create obligatory website feeds with content: 
+  strong proofs of existance of The One and Only God
+  money flow system and community organization guidelines
+  genocide in Palestine, 
+  genocide in Bosnia (Srebrenica)
+  https://www.srebrenica-mappinggenocide.com/en/13/
+- Napisati post na fb svakog prvog dana Ramazana, kao i svakog prvog dana od tih u kojima bi mogla biti noć Lejletul Kadr:
+  Šta ako je u zadnjih 10 dana Ramazana noć Lejletul Kadr ona noć u kojoj smo najmanje ibadetili? 
+  Zar nije logično da trebamo mnogo pojačati ibadet u svih zadnjih 10 noći Ramazana to cover all scenarios?
+
+- When number of people of native religion(s) (and number them and regions) in sacred regions is less or equal to 85% of average number of people
+  who belong to that religion, number of people of other religions will have to be lessened to 12% and then their numbers will be like according to
+  other general world organization guidelines.
+
+- https://www.paypal.com/myaccount/security/
+
+Write following
+- Develope stable and safe social network named "Monotheism based social network" that can be used to organize people and implement world organization 
+  guidelines. It will be based on external hard drives and people around the world would be able to join the servers network with their equipment/devices 
+  and software that I would share. The server apps would need to test themselves (including hashes cheking). Once when they pass tests, they can use 
+  synch and join option. There should also be additional tests frequently coming from other servers (selenium), and once when they don't pass test, 
+  server will be disconnected. When there is not enough space, server is disconnected from network of usable servers. Once when someone adds more space, 
+  can activate synch and join option, then there is synchronization taking place with one of fully fledged servers (randomly selected). Once when it's
+  finished, then server can join. However it's not fully fledged until it's proven that synch has been totally done in: 30 secs, 1 minute, 5 minutes.
+  After that last check in 5 minutes, if it's fine then server becomes fully fledged within servers network. It can be tested with TP link
+  and 3 external maxtor hard drives. When users want to join, they need to download app instance, and each app instance will have unique serial number
+  that will be created as some combination of PC name and MAC address - it will be regenerated and updated on the fly at each moment when it's needed.
+  Based on that it will be possible to ban a user for any given amount of time and also ban his IP address for 7 days. It will not be possible to add 
+  more than 2 posts or comments within 10 minutes, however that does not apply to chat where it will be (almost) unlimited. In most important groups 
+  suggested posts will be checked by me so I will be able to choose if I want to post them or delete them. Captcha before downloading client app. 
+  There should be an app that would be going through whole content of social network in fully fledged servers and ban those servers that made any 
+  modifications in social network content, be it text, image, or video. That checking needs to be done in parallel on all external hard drives that are
+  part of fully fledged servers and it should be happening continuously. When it finds a modified content it would broadcast to each and every server 
+  and check what majority of them say. If majority of them say it's really wrong, then it is wrong and that server will be banned from network. Those 
+  who want to be among those who provide servers with hard drives would need to email me their ID card and write a message (with minimum length) on 
+  why they want to do that, domain name under which their server will be, credentials for login for me so that I can check if everything is alright 
+  with their server and software, with whatever methods I come up with. That way I would be able to ban those domains and server app serials that are 
+  not OK so that they don't cause troubles anymore. I would send them software via email in reply. There should be a way in the app to stop the server 
+  and disconnect it from servers network so that one can delete content from all external hard drives, and then click synch and join option again so 
+  that all content is refreshed, otherwise data losses are possible within that server and they risk being banned from network. Recommendation is that
+  they do that every 4-5 years. There would be list of domain names, and behind every one of them would be a server (that does not have to be fully 
+  fledged, however those that are not fully fledged are not going to be used by people at all until they are). That list of domain names would be 
+  downloadable from a repository on my github account. When user adds some content, the receiving server makes modification and that modification is 
+  not part of synch checking, not until it is distributed accross the whole network of fully fledged servers. If the full synch does not happen within 
+  14 days, then all user input on all servers will be ignored until full synch happens. People would see message saying: full synch between servers is
+  happening, please be patient and wait until it's done.
+
+  Once when I have stable money income, call Telemach to enable me fixed external (WAN) IP address and pay for it (if needed)
+  That's the moment when that new social network is supposed to become alive. Later, when there is not enough space, just add
+  more external hard drives. If someone joins their server(s) before that or after, it's excellent. At some point, because of 
+  need for space I might be forced to add external hard drives in veranda and distribute them accross electricity sources. 
+  I could do similar thing in other 4 flats that we have, and after that also in other parts of town, or at my friends houses (and pay them).
+  Those other IP addresses would be under same single domain actually. When someone with same or bigger system joins, it's fine under another domain.
+  
+  Buttons on that social network:
+  Click to request to be allowed to see this website's content on your main feed page and be allowed to comment and suggest posts
+  Click to request to be allowed to see content from this person's profile posts, saved posts and be allowed to comment and chat
+  
+  People will be able to see text, image description, video description (minimal text length) and click "Add to saved posts". After that downloading
+  would start to their client PC, and those posts would be previewable in "Saved posts". They will be able to choose maximum reserved space, when
+  it's full then those oldest posts' texts, images and videos will be removed from their PC automatically, however text would still be viewable from
+  servers and they will be able to "Refresh posts" in which case those posts would move to the top and be redownloaded. There would be way to preview
+  those posts in order in which they are added, and also way to order them according to timestamps when they are created. It would be possible to
+  add saved posts to categories, move posts from one to another category, rename category and in case of same name posts would move to another category,
+  remove empty categories. There would also be sharing of other people's / groups' posts on your profile page, plus adding a textual comment.
+  It would be possible to "Report to admin" any post.
+  
+  There would be a way to create specials kind of posts called: "Pages". They would consist of html file, 3 folders: css, js, images, videos. Those pages
+  would be within iframes and Javascript would be allowed within them, so journalists and bloggers could design them as they want.
+  
+  In regards to Likes/Dislikes, make it with "I agree/I disagree" and 10 levels - white / blue / black to choose from, plus statistics in regards those
+  10 levels, 5 levels and 2 levels to have better estimation. Force strong guidelines via website in regards to writing only what is important and has something
+  to do with good intentions of doing good deeds in the Name of The One and Only God and monotheistic content, without losing time on unimportant things.
+  
+- Devices for money flow system and principles of working.
+  Since it could be dangerous, I also need to write that the whole project is part of much bigger project at the world level, and move towards new
+  money flow system according to newest world organization guidelines that nations came into agreement with and that can be seen on that github page.
+  Also add links to document in regards to Proofs of existance of the One and Only God.
+  Write license information in github readme, license file and installation file on up to 2 places.
+
+- Garbage cleaning and trains based transport system
+
+- Ležeći policajci: upadljivost, less chance to damage a car, not boring as old ones, easily remembered places where they are
+- Cars approaching fuel stations in different situations and places to change direction
+- In tunnels there should be Wifi, via cable
+
+- Cameras in houses: protection of fire, protection from thieves and false accusations, making it impossible to develope weapons, required by law
+- Cameras on streets (and other places). Easier to leave parking space and join traffic if you have device with which you can see streets.
+  I also need to write that the whole project is part of much bigger project at the world level, and move towards new money flow system according 
+  to newest world organization guidelines that nations came into agreement with and that can be seen on that github page.
+  Also add links to document in regards to Proofs of existance of the One and Only God.
+  Write license information in github readme, license file and installation file on up to 2 places.
