@@ -56,7 +56,18 @@ Associations and TODO list
 - https://www.paypal.com/myaccount/security/
 
 Write following
-- Develope stable and safe social network named "Monotheism based social network" that can be used to organize people and implement world organization 
+- Videos can be youtube embedded within forum like posts with comments, image links to some service for embed image sharing plus textual descriptions.
+  15, 25, or 50 posts per page of forum. People should be able to save chosen posts in their saved posts website feed.
+  Jump from saved post to place in forum where that post is written. If post is deleted it needs to be deleted also from all of everyone's feeds.
+  Ajax chat within iframe can be with separate domain name so that it does not take bandwidth from main server in regards to checking for new messages.
+  60 seconds interval for checking. Forum posts can be solved in a similar way, however without iframe.
+  There would be also website feed posts solved with iframe in a similar way. Even profile photo and cover photo would be on embed image sharing service.
+  Problem: if someone edits blog post, and many people added that post to their saved feed, it needs to be edited for each and every one of them.
+  ID of that post in their table together with id of user are recorded in a file that corresponds to that blog post.
+  nonce length is 8 alphanumeric.
+  Obligatory "Governments" website feed. Being able to hide/show 3 levels of replies generaly, option above forum, plus locally each of 5 levels.
+  
+  Develope stable and safe social network named "Monotheism based social network" that can be used to organize people and implement world organization 
   guidelines. It will be based on external hard drives and people around the world would be able to join the servers network with their equipment/devices 
   and software that I would share. The server apps would need to test themselves (including hashes cheking). Once when they pass tests, they can use 
   synch and join option. There should also be additional tests frequently coming from other servers (selenium), and once when they don't pass test, 
@@ -131,3 +142,4 @@ Write following
   to newest world organization guidelines that nations came into agreement with and that can be seen on that github page.
   Also add links to document in regards to Proofs of existance of the One and Only God.
   Write license information in github readme, license file and installation file on up to 2 places.
+  
