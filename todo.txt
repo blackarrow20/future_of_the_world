@@ -4,7 +4,7 @@ HINTS:
 - Pray regularily!!! That will save us.
 - Stay focused on prayers, tasks! "Zaveži devu, pa se onda pouzdaj u Allaha dž.š."
 - Work more and stay focused! Do not let them draw your attention away with pleasures!
-- spread devices on social networks, fb, my own and so on.
+- spread devices on social networks, fb, my own network and so on.
 
 - with biggest gift there comes biggest responsibility, meaning difference between consequences of what Dedžal could do if he uses that gift for what 
 is really useful and what he could do if he misuses it is big. There is Muhammed s.a.v.s. and he is better than us, other creations of Allah dž.š.
@@ -29,6 +29,7 @@ Associations and TODO list
 - CONCENTRATE ON TEACHING SOMEONE WHAT IS REALLY USEFUL AND HOW TO PRAY
 - When I am 40 years old, read 504th page of Qur'an regarding mother and baby food and the rest of the page
 - Translate all documents that are on github and put them into another repository: future_of_the_world_bos
+- Create 4 versions of youtube video/audio where AI would read those documents, plus shorter versions where I would just explain main points.
 - Develope access to web cameras in python, find libs for resolution transformation and combining 2 real-time video footages into 1.
 - It is important to remember amazing mercy of the One and Only God and work a lot on social network, however carefully
 - Send free water to Palestine in canisters
