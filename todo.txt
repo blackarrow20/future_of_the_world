@@ -2,21 +2,22 @@ HINTS:
 - Ne dozvoli im da te skrenu s pravog puta, samo je jedan Bog i Muhammed s.a.v.s. je Allahov poslanik. Nema mjesta nikakvom nevjerovanju.
 - Ne dopusti nikome da ti preuzme inženjerske proizvode ni autorstvo, i vodi brigu o njima i o društvenoj mreži pogotovo. Pokušavaju to, budi svjestan!!!
 - Pray regularily!!! That will save us.
+- Ćevapi are excellent meal, so feel free to eat them.
 - Stay focused on prayers, tasks! "Zaveži devu, pa se onda pouzdaj u Allaha dž.š."
 - Work more and stay focused! Do not let them draw your attention away with pleasures!
-- spread devices on social networks, fb, my own network and so on.
+- spread money flow devices on social networks, fb, my own network and so on.
 
 - with biggest gift there comes biggest responsibility, meaning difference between consequences of what Dedžal could do if he uses that gift for what 
 is really useful and what he could do if he misuses it is big. There is Muhammed s.a.v.s. and he is better than us, other creations of Allah dž.š.
 However, choice in decision making is in that case very simple, like choosing between:
 -> OPTION 1: temporary urge relief and pleasure of doing sins and after that small period that can be ignored totally there would be 
-   unlimited time spent in Džehennem forever somewhere around the bottom of it where fire is strongest at some point.
+   unlimited time spent in Džehennem forever somewhere around the bottom of it where fire is strongest.
 -> CHOOSE OPTION 2: being temporarily patient in regards to urges and pleasure of doing sins and not do them, and after that small period 
    that can be ignored totally there would be unlimited time spent in pleasures of Džennet/Heaven/Paradise, and you would feel better than you felt
    during your life in Dunja, all the time.
 
 However, Iblis will try to make use of that urge and attempt to make you use it with evil intentions, so beware and train yourself.
-- make a strong hint that if anyone says something and it makes you want to start sinning/misguiding again, know that it's a wrong choice
+- Make a strong hint that if anyone says something and it makes you want to start sinning/misguiding, know that it's a wrong choice
 - When dealing with enemies, one should not make any unnecessary step against himself or his people.
   Unnecessary step means to give enemy (evil doer) something free of charge like a concession, without justifiable tricks behind such move.
   If there are projects that are halal (within of what is allowed by the One and Only God) and not against us,
@@ -29,30 +30,28 @@ Associations and TODO list
 - CONCENTRATE ON TEACHING SOMEONE WHAT IS REALLY USEFUL AND HOW TO PRAY
 - When I am 40 years old, read 504th page of Qur'an regarding mother and baby food and the rest of the page
 - Translate all documents that are on github and put them into another repository: future_of_the_world_bos
-- Create 4 versions of youtube video/audio where AI would read those documents, plus shorter versions where I would just explain main points.
+- Create 4 versions of youtube video+audio where AI would read those documents, plus shorter versions where it would just explain main points.
 - Develope access to web cameras in python, find libs for resolution transformation and combining 2 real-time video footages into 1.
 - It is important to remember amazing mercy of the One and Only God and work a lot on social network, however carefully
-- Send free water to Palestine in canisters
+- Send free water to Palestine in canisters, because by helping them with your good deeds you are also helping yourself
 - Develope devices for money flow
-- Project in regard to organizing people at coastline in terms of islamic religion, so that people can protect their chastity, pray regularily
-- Garbage cleaning and trains based transport system
+- Project in regard to organizing people at coastline in terms of islamic religion, so that people can protect their chastity and pray regularily
+- Garbage cleaning combined with trains based transport system
 
-- download content from different sources in regard to genocide in Palestine 2023, Srebrenica 1995 
+- download content from different sources in regards to genocide in Palestine 2023, war in Ukraine, war in Irak, Srebrenica 1995
   dailymotion, vimeo, youtube, google, lunarvideo
-- ATM
+- add money to my bank account
 - when social network has been developed create obligatory website feeds with content: 
   strong proofs of existance of The One and Only God
   money flow system and community organization guidelines
-  genocide in Palestine, 
-  genocide in Bosnia (Srebrenica)
+  genocide in Palestine 2023,
+  war in Ukraine,
+  war in Irak,  
+  genocide in Bosnia (Srebrenica) 1995
   https://www.srebrenica-mappinggenocide.com/en/13/
-- Napisati post na fb svakog prvog dana Ramazana, kao i svakog prvog dana od tih u kojima bi mogla biti noć Lejletul Kadr:
+- Napisati post na fb svakog prvog dana Ramazana, i svakog prvog dana od tih u kojima bi mogla biti noć Lejletul Kadr:
   Šta ako je u zadnjih 10 dana Ramazana noć Lejletul Kadr ona noć u kojoj smo najmanje ibadetili? 
   Zar nije logično da trebamo mnogo pojačati ibadet u svih zadnjih 10 noći Ramazana to cover all scenarios?
-
-- When number of people of native religion(s) (and number them and regions) in sacred regions is less or equal to 85% of average number of people
-  who belong to that religion, number of people of other religions will have to be lessened to 12% and then their numbers will be like according to
-  other general world organization guidelines.
 
 - https://www.paypal.com/myaccount/security/
 
@@ -130,8 +129,6 @@ Write following
   money flow system according to newest world organization guidelines that nations came into agreement with and that can be seen on that github page.
   Also add links to document in regards to Proofs of existance of the One and Only God.
   Write license information in github readme, license file and installation file on up to 2 places.
-
-- Garbage cleaning and trains based transport system
 
 - Ležeći policajci: upadljivost, less chance to damage a car, not boring as old ones, easily remembered places where they are
 - Cars approaching fuel stations in different situations and places to change direction
